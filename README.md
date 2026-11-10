@@ -8,6 +8,7 @@
 ![Focus](https://img.shields.io/badge/Focus-Machine%20Learning-FF6F00)
 ![Domain](https://img.shields.io/badge/Domain-ADAS%20%26%20Autonomous%20Driving-24292F)
 ![Languages](https://img.shields.io/badge/English%20C1%20·%20German%20B2-555555)
+![Profile views](https://komarev.com/ghpvc/?username=Vijayscodehub&label=Profile%20views&color=0A66C2&style=flat)
 
 ---
 
@@ -111,8 +112,10 @@ Dynamic Simulink model of a vehicle braking system built from physics-based equa
 
 ## 📊 GitHub stats
 
-![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vijayscodehub&show_icons=true&hide_border=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vijayscodehub&layout=compact&hide_border=true)
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vijayscodehub&theme=default" alt="GitHub stats" height="180">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vijayscodehub&theme=default" alt="Top languages" height="180">
+</p>
 
 ---
 
