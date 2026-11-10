@@ -17,11 +17,11 @@ I build machine learning systems that help vehicles understand the world around 
 
 I hold an M.Eng. in International Automotive Engineering from Technische Hochschule Ingolstadt. Along the way I worked on automated driving software in industry and research:
 
-- **BMW AG**: tested and debugged the Autonomous Emergency Braking (AEB) function in simulation, including NCAP scenarios and MCAP log analysis
-- **Volkswagen Group – CARIAD SE**: master thesis on landmark-based **radar SLAM with factor graph optimization** for assisted parking
-- **Kärcher**: developed and integrated motion-planning features for the autonomous driving stack of industrial robots (C++, Python, ROS 1/2)
-- **Porsche Engineering**: prototyped and tested collision-avoidance algorithms in simulation and on hardware
-- **CARISSMA Institute (C-ECOS), TH Ingolstadt**: student research assistant (Studentische Hilfskraft) on automotive perception for automated driving. Worked on collective perception with a BMW test vehicle, collected radar and camera object lists, and wrote filters that remove false-positive and false-negative detections (ROS, Python, C++). Also supported battery testing
+- <img src="assets/logos/bmw.png" alt="BMW" width="16" height="16" align="center"> **BMW AG**: tested and debugged the Autonomous Emergency Braking (AEB) function in simulation, including NCAP scenarios and MCAP log analysis
+- <img src="assets/logos/cariad.png" alt="CARIAD" width="16" height="16" align="center"> **Volkswagen Group – CARIAD SE**: master thesis on landmark-based **radar SLAM with factor graph optimization** for assisted parking
+- <img src="assets/logos/kaercher.png" alt="Kärcher" width="16" height="16" align="center"> **Kärcher**: developed and integrated motion-planning features for the autonomous driving stack of industrial robots (C++, Python, ROS 1/2)
+- <img src="assets/logos/porsche.jpg" alt="Porsche" width="16" height="16" align="center"> **Porsche Engineering**: prototyped and tested collision-avoidance algorithms in simulation and on hardware
+- <img src="assets/logos/thi.png" alt="TH Ingolstadt" width="16" height="16" align="center"> **CARISSMA Institute (C-ECOS), TH Ingolstadt**: student research assistant (Studentische Hilfskraft) on automotive perception for automated driving. Worked on collective perception with a BMW test vehicle, collected radar and camera object lists, and wrote filters that remove false-positive and false-negative detections (ROS, Python, C++). Also supported battery testing
 
 My ML work covers the full workflow: clean data splits, training from scratch, choosing models on validation data only, a single honest test run, and error analysis.
 
