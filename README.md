@@ -40,13 +40,13 @@ Away from the screen: volleyball, football and chess. The kind of person who enj
 
 ## 💼 Experience
 
-| | Role | Company | Period |
-|:-:|---|---|---|
-| <img src="assets/logos/bmw.png" alt="BMW" width="20" height="20"> | Intern: Driver Assistance Systems – Autonomous Emergency Braking (AEB) | BMW AG | 05/2026 – 09/2026 |
-| <img src="assets/logos/cariad.png" alt="CARIAD" width="20" height="20"> | Master Thesis: Landmark-Based RADAR SLAM Using Factor Graph Optimization for ADAS and Autonomous Driving | Volkswagen Group – CARIAD SE | 04/2025 – 09/2025 |
-| <img src="assets/logos/kaercher.png" alt="Kärcher" width="20" height="20"> | Intern: Algorithm Development & Integration – Automated Driving | Alfred Kärcher SE & Co. KG | 08/2024 – 02/2025 |
-| <img src="assets/logos/porsche.jpg" alt="Porsche Engineering" width="20" height="20"> | Intern: Software Function Development | Porsche Engineering Group | 10/2023 – 02/2024 |
-| <img src="assets/logos/thi.png" alt="TH Ingolstadt" width="20" height="20"> | Studentische Hilfskraft (Student Research Assistant) | CARISSMA Institute (C-ECOS), TH Ingolstadt | 04/2023 – 09/2023 |
+| | Role | Company |
+|:-:|---|---|
+| <img src="assets/logos/bmw.png" alt="BMW" width="32" height="32"> | Intern: Driver Assistance Systems – Autonomous Emergency Braking (AEB) | BMW AG |
+| <img src="assets/logos/cariad.png" alt="CARIAD" width="32" height="32"> | Master Thesis: Landmark-Based RADAR SLAM Using Factor Graph Optimization for ADAS and Autonomous Driving | Volkswagen Group – CARIAD SE |
+| <img src="assets/logos/kaercher.png" alt="Kärcher" width="32" height="32"> | Intern: Algorithm Development & Integration – Automated Driving | Alfred Kärcher SE & Co. KG |
+| <img src="assets/logos/porsche.jpg" alt="Porsche Engineering" width="32" height="32"> | Intern: Software Function Development | Porsche Engineering Group |
+| <img src="assets/logos/thi.png" alt="TH Ingolstadt" width="32" height="32"> | Studentische Hilfskraft (Student Research Assistant) | CARISSMA Institute (C-ECOS), TH Ingolstadt |
 
 ## 🚗 Featured projects
 
